@@ -19,7 +19,6 @@
     margin-top:5px;
     margin-bottom:5px;
     
-    
 }
 .aboutme{
     border:1px solid black;
@@ -36,6 +35,10 @@ font-family: "Knewave";
 .headshot{
     width:300px;
 }
-h1{ 
-    color:white;
+h1{
+    color: white;
+}
+#AM{
+    display:flex;
+    justify-content: center;
 }
